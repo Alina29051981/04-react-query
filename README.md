@@ -4,10 +4,10 @@ is a modern React application built with Vite + TypeScript that allows you to se
 
 The project uses best practices in React, TypeScript type safety, state management with TanStack Query, and a clean component structure with CSS modules.
 
-**Live Demo:**  
-[GitHub Pages Link](https://Alina29051981.github.io/04-react-query/) 
+**Live Demo:**
+https://04-react-query-khaki-nine.vercel.app/
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/04-react-query/deploy.yml?branch=main)
+![Vercel Status](https://img.shields.io/github/deployments/Alina29051981/04-react-query/Production?label=vercel)
 ![Last Commit](https://img.shields.io/github/last-commit/Alina29051981/04-react-query)
 ![Repo Size](https://img.shields.io/github/repo-size/Alina29051981/04-react-query)
 
